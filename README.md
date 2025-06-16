@@ -1,5 +1,5 @@
 
-# 🎵📚 AI Recommender Chatbot — Multimodal Book & Music Recommendations
+# 🎵📚 AI Multimodal Book & Music Recommender Chatbot
 
 An intelligent **multi-modal recommender system** that suggests **books or music** based on:
 
